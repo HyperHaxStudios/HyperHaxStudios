@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HyperHaxStudios
 - 👀 I’m interested in Coding and Testing Games.
 - 💞️ I’m looking to collaborate on Coding and help making sprites for games.
-- 📫 How to reach me by GitHub: @HyperHaxStudios and by Discord: HyperHaxOfficial
+- 📫 How to reach me by GitHub: @HyperHaxStudios by Gmail (HyperHaxGames@gmail.com), and by Discord: HyperHaxOfficial
 
 <!---
 HyperHaxStudios/HyperHaxStudios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

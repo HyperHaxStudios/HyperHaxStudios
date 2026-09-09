@@ -3,4 +3,4 @@
 - 💞️ I’m looking to collaborate on Coding and help making sprites for games.
 - 📫 How to reach me by GitHub: @HyperHaxStudios and by Discord: HyperHaxOfficial
 - 🛠 Creator of "Orthodox": A Spigot plugin for Minecraft. More Info [here](https://github.com/HyperHaxStudios/Orthodox)
-- 🛠 Working on [DJ Hero 2 Decompile](https://github.com/HyperHaxStudios/DJH2)
+- 🛠 Working on [LEGO Dimensions Recompiled](https://github.com/TeamRecomp/DimensionsRecomp)
